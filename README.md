@@ -1,12 +1,24 @@
-# AppControl - Sistema de Control de Diabetes 🩸
+# 📊 App Control
+*Sistema Avanzado de Control y Monitoreo de Salud*
 
 <div align="center">
 
-![AppControl Logo](https://img.shields.io/badge/AppControl-Diabetes%20Management-blue?style=for-the-badge&logo=healthcare)
+![Status](https://img.shields.io/badge/Status-Completado-brightgreen?style=for-the-badge)
+![AppControl Logo](https://img.shields.io/badge/AppControl-Health%20Management-blue?style=for-the-badge&logo=healthcare)
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=w## 🚀 Instalación y Configuración
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+</div>
+
+---
+
+## 📋 Descripción
+
+**App Control** es una plataforma avanzada de monitoreo y control de salud, especializada en el seguimiento de diabetes y otras condiciones médicas. El sistema proporciona herramientas integrales para pacientes y profesionales médicos, permitiendo un control detallado de glucosa, medicamentos, dieta y ejercicio con alertas inteligentes y reportes personalizados.
+
+> 💡 **Desarrollado con React + Node.js y MongoDB**, incluye dashboard en tiempo real, sistema de alertas automáticas y análisis predictivos para mejorar la gestión de la salud.## 🚀 Instalación y Configuración
 
 ### 📍 Prerrequisitos
 - **Node.js v18+** (Recomendado: v18.17.0 o superior)
